@@ -1,0 +1,1 @@
+# washme-partner-app
