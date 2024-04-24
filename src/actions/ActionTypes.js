@@ -1,0 +1,2 @@
+// Auth Info
+export const UPDATE_PROFILE_PICTURE = 'UPDATE_PROFILE_PICTURE'
